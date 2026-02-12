@@ -1,4 +1,3 @@
-#пасс мэнеджер
 from tkinter import *
 from tkinter import ttk
 def del_web():
